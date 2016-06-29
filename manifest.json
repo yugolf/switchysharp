@@ -16,7 +16,7 @@
     },
     "name":"__MSG_manifest_appName__",
     "options_page":"options.html",
-    "permissions":[ "proxy" ],
+    "permissions":[ "proxy", "tabs"],
     "version":"1.10.5",
     "minimum_chrome_version":"18.0.0",
     "homepage_url":"https://chrome.google.com/webstore/detail/dpplabbmogkhghncfbfdeeokoefdjegm"
